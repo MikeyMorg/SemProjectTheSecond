@@ -1,3 +1,5 @@
 /venv
 data/LLCP2014.XPT
 src/brffs.duckdb
+src/llcp2014.duckdb
+src/llcp2014.duckdb.wal
