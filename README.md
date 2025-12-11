@@ -16,7 +16,8 @@
     for your environment when wanting to run this code.
 
 ## SemProject
-    This subfolder was created when we made our virtual environment.
+    This subfolder was created when we made our virtual environment. This can be ignored/deleted, and you can make your own virtual environment and
+    download all the requirements. This can be done by running the command 'pip install -r requirements.txt' in your terminal after creating your virtual environment.
 
 ## src Folder
     The sub-folder, src, will have our jupyter notebook, titled 'SemProj.ipynb' where we unpacked the data,
