@@ -1,3 +1,6 @@
+## Authors
+    Michael Morgan, Ian Gower, Hunter Thomas
+
 ## Abstract
     This notebook will be used to analyze data, so we can make predictions on if someone has a sleep disorder or not.
     The data that we will be analyzing contains different lifestyle, physiolgical and demographic factors
